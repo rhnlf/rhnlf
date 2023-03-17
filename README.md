@@ -4,9 +4,6 @@ I am Raihan Alif a friendly IT student with a huge interest in Android Developme
 <!-- -  I’m currently working on ... -->
 - 🔭 I’m currently learning Android Development on Bangkit Academy 2023 
 - 👯 I’m looking to collaborate on simple project related to Android Development
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: ... -->
 
